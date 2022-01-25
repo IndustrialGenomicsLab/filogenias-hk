@@ -1,0 +1,2 @@
+ID	gene	Organism	Genus	Genus__colour	Source	Source__colour	Accesion/Region	Position	start	end	Strand	Class1	Class1__colour	Class2	Class2__colour	Class3	Class3__colour	Product	Similarity	completeness	distance	TCS	TCS_gene	Pfam
+BGC0000411_ABW17374.1	PsoR	Pseudomonas putida	Pseudomonas	#FF3300	MIBiG	#0676BE	BGC0000411	1503..2285	1503	2285	-	NRP	#2E8B57					putisolvin	100			orphan	

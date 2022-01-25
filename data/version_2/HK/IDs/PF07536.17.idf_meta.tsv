@@ -1,0 +1,2 @@
+ID	gene	Organism	Genus	Genus__colour	Source	Source__colour	Accesion/Region	Position	start	end	Strand	Class1	Class1__colour	Class2	Class2__colour	Class3	Class3__colour	Product	Similarity	completeness	distance	TCS	TCS_gene	Pfam
+BGC0000802_CAA12536.1	ExsG_protein	Sinorhizobium meliloti	Sinorhizobium	#FF9933	MIBiG	#0676BE	BGC0000802	7857..10580	7857	10580	-	Saccharide	#FF7D25					succinoglycan	100			orphan	

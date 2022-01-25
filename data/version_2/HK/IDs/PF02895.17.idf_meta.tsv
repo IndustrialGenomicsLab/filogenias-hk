@@ -1,0 +1,2 @@
+ID	gene	Organism	Genus	Genus__colour	Source	Source__colour	Accesion/Region	Position	start	end	Strand	Class1	Class1__colour	Class2	Class2__colour	Class3	Class3__colour	Product	Similarity	completeness	distance	TCS	TCS_gene	Pfam
+BGC0001755_AWW87432.1	hypothetical_protein	Streptomyces sp.	Streptomyces	#3333FF	MIBiG	#0676BE	BGC0001755	102832..103914	102832	103914	-	Polyketide	#F4A460					reedsmycins	100			tcs	BGC0001755_AWW87431.1	PF00196.22

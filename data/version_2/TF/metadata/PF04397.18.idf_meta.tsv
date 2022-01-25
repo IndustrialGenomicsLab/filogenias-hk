@@ -1,0 +1,16 @@
+ID	gene	Organism	Genus	Genus__colour	Source	Source__colour	Accesion/Region	Position	start	end	Strand	Class1	Class1__colour	Class2	Class2__colour	Class3	Class3__colour	Product	Similarity	completeness	distance	TCS	TCS_gene	Pfam
+BGC0000484_ADV57365.1	putative_LytTR_response_regulator	Lactobacillus plantarum	Lactobacillus	#33CCCC	MIBiG	#0676BE	BGC0000484	5593..6369	5593	6369	+	RiPP	#4169E1					glycocin F	100			orphan	
+BGC0001555_YP_002539393.1	rep_FIB_replication_protein_B	Escherichia coli chi7122	Escherichia	#FFFFCC	MIBiG	#0676BE	BGC0001555	76811..77788	76811	77788	+	RiPP	#4169E1					colicin V	100			orphan	
+BGC0000974_CBD77761.1	hypothetical_protein	Chondromyces crocatus	Chondromyces	#0000CC	MIBiG	#0676BE	BGC0000974	59960..60742	59960	60742	+	NRP	#2E8B57	Polyketide	#F4A460			crocacin	100			orphan	
+BGC0001559_AIR74922.1	regulatory_protein	Chondromyces crocatus	Chondromyces	#0000CC	MIBiG	#0676BE	BGC0001559	56288..57070	56288	57070	+	RiPP	#4169E1					crocagin A/crocagin B	100			orphan	
+fig|6666666.590940.peg.2280	cds145709_146471	Streptomyces rochei CC36	Streptomyces	#3333FF	CuatroCienegas	#66FF66	53.1	33751..34512	33751	34512	-	Polyketide	#F4A460					herboxidiene	8	complete	558	orphan	
+fig|6666666.883177.peg.1709	cds1342329_1343091	Streptomyces sp. SS52	Streptomyces	#3333FF			1.7	33740..34501	33740	34501	-	Polyketide	#F4A460					herboxidiene	8	complete	569	orphan	
+BGC0000486_AAC69555.2	response_regulator-like_protein	Butyrivibrio fibrisolvens	Butyrivibrio	#FFFFFF	MIBiG	#0676BE	BGC0000486	467..1183	467	1183	+	RiPP	#4169E1					butyrivibriocin AR10	100			orphan	
+BGC0000539_BAC98758.1	putative_response_regulator	Staphylococcus warneri	Staphylococcus	#009900	MIBiG	#0676BE	BGC0000539	156..899	156	899	-	RiPP	#4169E1					nukacin ISK-1	100			orphan	
+BGC0000488_CAD97576.1	putative_response_regulator	Clostridium beijerinckii	Clostridium	#0066FF	MIBiG	#0676BE	BGC0000488	162..938	162	938	+	RiPP	#4169E1					circularin A	100			orphan	
+BGC0000624_ABQ84447.1	salivaricin_response_regulator	Lactobacillus salivarius	Lactobacillus	#33CCCC	MIBiG	#0676BE	BGC0000624	2843..3637	2843	3637	+	RiPP	#4169E1					salivaricin CRL1328 ? peptide/salivaricin CRL1328 ? peptide	100			orphan	
+BGC0000619_BAM09401.1	putative_response_regulator	Lactobacillus gasseri	Lactobacillus	#33CCCC	MIBiG	#0676BE	BGC0000619	1615..2412	1615	2412	+	RiPP	#4169E1					gassericin T	100			orphan	
+BGC0001388_ALX37942.1	GaeR	Lactobacillus gasseri	Lactobacillus	#33CCCC	MIBiG	#0676BE	BGC0001388	1600..2397	1600	2397	+	RiPP	#4169E1					gassericin E	100			orphan	
+BGC0001602_BBE52943.1	putative_response_regulator	Lactobacillus gasseri	Lactobacillus	#33CCCC	MIBiG	#0676BE	BGC0001602	1615..2412	1615	2412	+	RiPP	#4169E1					gassericin-T	100			orphan	
+BGC0000494_ABG48502.1	possible_orphan_response_regulator	Streptococcus uberis	Streptococcus	#FF9999	MIBiG	#0676BE	BGC0000494	1383..2138	1383	2138	-	RiPP	#4169E1					uberolysin	100			orphan	
+BGC0000540_AFS60109.1	AgrC	Paenibacillus polymyxa OSY-DF	Paenibacillus	#9966FF	MIBiG	#0676BE	BGC0000540	10153..10887	10153	10887	+	RiPP	#4169E1					paenibacillin	100			orphan	

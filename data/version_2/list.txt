@@ -1,0 +1,9 @@
+PF00440.26_all.fasta
+PF03704.20_all.fasta
+PF08664.13_all.fasta
+PF00486.31_all.fasta
+PF04397.18_all.fasta
+PF08769.14_all.fasta
+PF00486+PF03704.fasta
+PF02954.22_all.fasta
+PF08279.15_all.fasta

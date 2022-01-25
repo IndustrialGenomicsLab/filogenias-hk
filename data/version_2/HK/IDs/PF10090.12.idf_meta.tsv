@@ -1,0 +1,5 @@
+ID	gene	Organism	Genus	Genus__colour	Source	Source__colour	Accesion/Region	Position	start	end	Strand	Class1	Class1__colour	Class2	Class2__colour	Class3	Class3__colour	Product	Similarity	completeness	distance	TCS	TCS_gene	Pfam
+BGC0000014_ABK32251.1	Amb3	Sorangium cellulosum	Sorangium	#66CCFF	MIBiG	#0676BE	BGC0000014	6678..7457	6678	7457	+	Polyketide	#F4A460					ambruticin	100			tcs	BGC0000014_ABK32252.1	PF00158.29 PF02954.22
+BGC0000080_ABK32283.1	Jer3	Sorangium cellulosum	Sorangium	#66CCFF	MIBiG	#0676BE	BGC0000080	7183..8643	7183	8643	+	Polyketide	#F4A460					jerangolid A/jerangolid D	100			tcs	BGC0000080_ABK32284.1	PF00158.29 PF02954.22
+fig|6666666.867962.peg.7112	cds628681_629899	Streptomyces_VB1 sp.	Streptomyces	#3333FF	Chile	#FF6600	45.6	33941..35158	33941	35158	-	Polyketide	#F4A460					herboxidiene	6	complete	880	tcs	fig|6666666.867962.peg.7111	PF00196.22
+fig|56099.17.peg.6192	cds144510_145584	Lentzea sp. cc55	Lentzea	#D60093	CuatroCienegas	#66FF66	36.1	18346..19419	18346	19419	+	NRP	#2E8B57	Polyketide	#F4A460			xantholipin	12	complete	2628	tcs	fig|56099.17.peg.6191	PF00486.31
